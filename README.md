@@ -11,13 +11,16 @@
 
 | 产品 | 公司 | 核心定位 | 拆解文档 |
 |---|---|---|---|
+| 产品 | 公司 | 核心定位 | 拆解文档 |
+|---|---|---|---|
+| Cursor | Anysphere | AI-native 代码编辑器 / 工程效率 | [teardowns/cursor.md](teardowns/cursor.md) |
 | 豆包 | 字节跳动 | 泛化 AI 助手 / 内容消费入口 | [teardowns/doubao.md](teardowns/doubao.md) |
 | Kimi | 月之暗面 | 长文档处理 / 深度搜索 | [teardowns/kimi.md](teardowns/kimi.md) |
 | 通义千问 | 阿里云 | 企业级 AI / 生态整合 | [teardowns/tongyi.md](teardowns/tongyi.md) |
 
 **拆解框架**：产品定位与用户 → 核心功能地图 → 交互设计分析 → Prompt 工程观察 → 能力边界测试 → 商业模式 → 竞品差异 → 个人感悟
 
-待拆解：[ ] Perplexity  [ ] Claude.ai  [ ] Cursor  [ ] Notion AI
+待拆解：[ ] Perplexity  [ ] Claude.ai  [ ] Notion AI  [ ] Lovable
 
 ---
 
